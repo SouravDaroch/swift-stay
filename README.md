@@ -1,16 +1,24 @@
-# React + Vite
+# SwiftStay 🏠  
+**Premium Real Estate Marketplace with High-Performance UI** [Live Demo](https://your-swift-stay-link.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
+SwiftStay is a modern real estate listing platform designed for speed and usability. It focuses on a clean user interface, efficient property filtering, and a mobile-first approach to property discovery.
 
-Currently, two official plugins are available:
+## ✨ Key Features
+- **Advanced Filtering:** Instant filtering logic to find properties by price, location, and type.
+- **Dynamic Property Pages:** Uses React Router to generate SEO-friendly, individual property detail views.
+- **Responsive Layout:** Optimized for all screen sizes using Tailwind CSS’s utility-first grid system.
+- **Interactive UI:** Smooth transitions and high-resolution image handling for a premium feel.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Library:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Routing:** React Router Dom
+- **Build Tool:** Vite
+- **Icons:** Lucide React
+- **Deployment:** Vercel
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Getting Started
+1. **Clone the repo:** `git clone https://github.com/SouravDaroch/swift-stay.git`
+2. **Install dependencies:** `npm install`
+3. **Run the app:** `npm run dev`
